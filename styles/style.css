@@ -13,7 +13,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 96px 60px 89px 47px;
+  padding: 96px 60px 89px 49px;
 }
 
 .header__links-list {
@@ -31,7 +31,6 @@
 
 .header__link {
   font-size: 18px;
-  white-space: pre-line;
 }
 
 .header__link_active {
