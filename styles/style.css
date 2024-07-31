@@ -179,6 +179,7 @@
   list-style: none;
   min-height: 563px;
   width: 334px;
+  flex-wrap: wrap;
 }
 
 .lots__card-list-item {
