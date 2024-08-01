@@ -1,4 +1,4 @@
-﻿﻿main {
+﻿main {
   display: flex;
   flex-direction: column;
   gap: 183px;
@@ -13,7 +13,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 82px 58px 91px 53px;
+  padding: 87px 58px 91px 53px;
 }
 
 .header__links-list {
@@ -167,7 +167,7 @@
 }
 
 .lots__heading {
-  padding: 182px 0px 36px 44px;
+  padding: 178px 0px 36px 44px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
