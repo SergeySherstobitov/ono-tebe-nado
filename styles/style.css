@@ -13,7 +13,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 95px 60px 91px 53px;
+  padding: 89px 60px 91px 53px;
 }
 
 .header__links-list {
