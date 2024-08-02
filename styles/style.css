@@ -167,7 +167,7 @@
 }
 
 .lots__heading {
-  padding: 0px 0px 33px 42px;
+  padding: 1px 0px 31px 42px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -204,7 +204,7 @@
   background-size: cover;
   width: auto;
   min-height: 563px;
-  padding: 45px 40px 53px 41px;
+  padding: 47px 40px 50px 39px;
 }
 
 .card_type_film {
@@ -323,7 +323,7 @@
 }
 
 .footer__menu-link_active {
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .footer__social-list {
