@@ -179,7 +179,6 @@ main {
   gap: 25px 25px;
   list-style: none;
   flex-wrap: wrap;
-  min-height: 450px;
 }
 
 .lots__card-list-item {
@@ -297,7 +296,7 @@ main {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 180px 19px 0px 54px;
+  padding: 180px 19px 60px 54px;
 }
 
 .footer__social-icon {
